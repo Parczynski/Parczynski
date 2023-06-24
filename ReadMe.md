@@ -7,7 +7,7 @@ I am a full stack developer
 I'm a full stack developer with 15+ years of experience building any type of apps related to the web mostly using TypeScript, JavaScript, React, NodeJS, PHP, HTML, CSS, Postgres, Python and many other techs both from scratch and diving into the existing codebase.
 
 * 🌍  I'm based in Batumi, Georgia
-* 🧠  I'm learning Scala
+* 🧠  I'm learning Go
 
 ### Skills
 
